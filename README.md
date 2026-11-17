@@ -27,7 +27,14 @@ Mobile Applications Development student at **IPCA** (Instituto Politécnico do C
 
 ### 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yS3dex&layout=compact&theme=dark&hide_border=true)
+### 🛠️ Linguagens & Tecnologias
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ---
 
