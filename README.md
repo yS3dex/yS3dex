@@ -27,7 +27,7 @@ Mobile Applications Development student at **IPCA** (Instituto Politécnico do C
 
 ### 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yS3dex&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yS3dex&layout=compact&theme=dark&hide_border=true)
 
 ---
 
