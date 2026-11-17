@@ -42,4 +42,4 @@ Mobile Applications Development student at **IPCA** (Instituto Politécnico do C
 
 * **LinkedIn:** [linkedin.com/in/joaocunha-dev](https://www.linkedin.com/in/joaocunha-dev/)
 * **Email:** [joaohenriquecunha4@gmail.com](mailto:joaohenriquecunha4@gmail.com)
-* **Location:** Vila Verde / Braga, Portugal
+* **Location:** Braga, Portugal
